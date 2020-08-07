@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{4082B386-47C9-4EB8-A1A1-28CA835CFAA5}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="FirstLinqQuery/Program.cs">
+    <Files>
+      <File FileName="FirstLinqQuery/Program.cs" Line="30" Column="15" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="FirstLinqQuery" expanded="True">
+            <Node name="FirstLinqQuery" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.FirstLinqQuery PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

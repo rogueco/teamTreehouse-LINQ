@@ -1,0 +1,11 @@
+/repos/Personal/Development/treehouse/LINQ/SectionOne/FirstLinqQuery/FirstLinqQuery/bin/Debug/netcoreapp2.2/FirstLinqQuery.deps.json
+/repos/Personal/Development/treehouse/LINQ/SectionOne/FirstLinqQuery/FirstLinqQuery/bin/Debug/netcoreapp2.2/FirstLinqQuery.runtimeconfig.json
+/repos/Personal/Development/treehouse/LINQ/SectionOne/FirstLinqQuery/FirstLinqQuery/bin/Debug/netcoreapp2.2/FirstLinqQuery.runtimeconfig.dev.json
+/repos/Personal/Development/treehouse/LINQ/SectionOne/FirstLinqQuery/FirstLinqQuery/bin/Debug/netcoreapp2.2/FirstLinqQuery.dll
+/repos/Personal/Development/treehouse/LINQ/SectionOne/FirstLinqQuery/FirstLinqQuery/bin/Debug/netcoreapp2.2/FirstLinqQuery.pdb
+/repos/Personal/Development/treehouse/LINQ/SectionOne/FirstLinqQuery/FirstLinqQuery/obj/Debug/netcoreapp2.2/FirstLinqQuery.csprojAssemblyReference.cache
+/repos/Personal/Development/treehouse/LINQ/SectionOne/FirstLinqQuery/FirstLinqQuery/obj/Debug/netcoreapp2.2/FirstLinqQuery.csproj.CoreCompileInputs.cache
+/repos/Personal/Development/treehouse/LINQ/SectionOne/FirstLinqQuery/FirstLinqQuery/obj/Debug/netcoreapp2.2/FirstLinqQuery.AssemblyInfoInputs.cache
+/repos/Personal/Development/treehouse/LINQ/SectionOne/FirstLinqQuery/FirstLinqQuery/obj/Debug/netcoreapp2.2/FirstLinqQuery.AssemblyInfo.cs
+/repos/Personal/Development/treehouse/LINQ/SectionOne/FirstLinqQuery/FirstLinqQuery/obj/Debug/netcoreapp2.2/FirstLinqQuery.dll
+/repos/Personal/Development/treehouse/LINQ/SectionOne/FirstLinqQuery/FirstLinqQuery/obj/Debug/netcoreapp2.2/FirstLinqQuery.pdb
